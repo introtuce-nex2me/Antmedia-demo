@@ -1,0 +1,5 @@
+rootProject.name = "Ant Media Demo"
+include ':app'
+include ':webrtc-android-sample-app'
+include ':webrtc-android-framework'
+include ':java'
